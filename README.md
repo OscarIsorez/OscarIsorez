@@ -35,7 +35,7 @@ Ces projets vont d'une application mobile d'emploi du temps pour les étudiants 
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tonnomgithub&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=OscarIsorez&show_icons=true&theme=radical)
 
 ---
 
